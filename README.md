@@ -4,29 +4,29 @@ Your versatile online toolkit for developers. Encode/decode Base64, Hex, Binary,
 Available at https://devencode.io
 
 **Encoding Tools**
-Base64 <-> Data
-Base64 <-> Hex
-Base64 <-> Binary
-Hex <-> Text
-Hex <-> Binary
-URL Encode <-> Text
++ Base64 <-> Data
++ Base64 <-> Hex
++ Base64 <-> Binary
++ Hex <-> Text
++ Hex <-> Binary
++ URL Encode <-> Text
 
 **JSON Tools**
-JSON Validator
-JSON Formatter
-JSON Minifier
-JSON Diff
-JWT Decoder
++ JSON Validator
++ JSON Formatter
++ JSON Minifier
++ JSON Diff
++ JWT Decoder
 
 **Crypto Tools**
-Hash Generator
-HMAC Generator
-AES Tool
-RSA Tool
-ECDSA Tool
++ Hash Generator
++ HMAC Generator
++ AES Tool
++ RSA Tool
++ ECDSA Tool
 
 **XML Tools**
-XML Validator
-XML Formatter
-XML Minifier
-XML <-> JSON
++ XML Validator
++ XML Formatter
++ XML Minifier
++ XML <-> JSON
